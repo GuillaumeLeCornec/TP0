@@ -19,3 +19,4 @@ public class JavaApplication4 {
     }
     
 }
+System.out.println("coucou");
